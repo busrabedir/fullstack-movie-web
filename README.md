@@ -39,7 +39,7 @@ npm install
 npm start
 ```
 4. Install frontend dependencies and start the development server
-Open a new terminal:
+- Open a new terminal:
 ```
 cd frontend
 npm install
