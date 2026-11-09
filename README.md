@@ -33,12 +33,16 @@ Filmania is a full-stack movie management application where users can explore mo
 ## 💻 Installation & Setup
 1. Clone the repository
 2. Install backend dependencies and start the server
-`cd backend
- npm install
- npm start`
-3. Install frontend dependencies and start the development server
-- Open a new terminal:
-`cd frontend
- npm install
- npm run dev`
+```
+cd backend
+npm install
+npm start
+```
+4. Install frontend dependencies and start the development server
+Open a new terminal:
+```
+cd frontend
+npm install
+npm run dev
+```
 
